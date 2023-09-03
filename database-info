@@ -1,0 +1,19 @@
+tb beneficiado
+nome
+contato
+email
+
+tb analise
+empresa_id
+responsavel
+data analise
+observacoes
+
+tb resultado_analise
+analise_id
+quantidade_sementes
+quantidade_alto_vigor
+quantidade_fungo
+quantidade_dano_fisico
+quantidade_enrugada
+quantidade_dano_quimico

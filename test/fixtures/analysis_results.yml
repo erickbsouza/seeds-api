@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  seeds_total: 1
+  high_vigor: 1
+  fungus: 1
+  physical_damage: 1
+  wrinkled: 1
+  chemical_damage: 1
+
+two:
+  seeds_total: 1
+  high_vigor: 1
+  fungus: 1
+  physical_damage: 1
+  wrinkled: 1
+  chemical_damage: 1

@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  responsible: MyString
+  date_analyse: 2023-09-02
+  comments: MyString
+
+two:
+  responsible: MyString
+  date_analyse: 2023-09-02
+  comments: MyString
